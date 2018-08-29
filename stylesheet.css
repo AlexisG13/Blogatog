@@ -1,0 +1,48 @@
+.head{
+    text-align: right;
+    margin-top:30px;
+}
+
+.head>input{
+    width:10em;
+}
+
+.fas fa-list-alt{
+    width:500px;
+}
+
+.entries{
+    margin-top:20px;
+    margin-left: 20px;
+    margin-right:20px;
+    font-size: 0.9em;
+    
+}
+
+.icon{
+    width:100px;
+}
+
+
+.foot{
+    width:500px;
+}
+
+.panel{
+    background-color: white;
+    border-style: solid;
+    border-color:black;
+    margin-right:100px;
+    margin-left:100px;
+    border-width: 6px;
+}
+
+body{
+    background-color:#767de4;
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
